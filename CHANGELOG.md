@@ -26,7 +26,7 @@
 
  * testing
    - updated wallaby.js and karma.conf.js
-   - updated app.component.spec.ts
+   - updated app-component-spec.ts
 
 
  <a name="0.1.15"></a>
